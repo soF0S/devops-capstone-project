@@ -1,5 +1,5 @@
 ---
-Name: User Story (Tablet)
+name: User Story (Tablet)
 About: Create a User Story.
 Assignees: ''
 ---
