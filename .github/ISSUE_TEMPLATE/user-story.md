@@ -1,6 +1,6 @@
 ---
 name: User Story (Tablet)
-About: Create a User Story.
+about: Create a User Story.
 Assignees: ''
 ---
 
