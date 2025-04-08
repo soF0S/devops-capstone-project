@@ -28,5 +28,8 @@ coverage==6.3.2
 # Utilities
 httpie==3.2.1
 
-# Flask-Talisman
+# Add Flask Talisman
 Flask-Talisman
+
+# Add Flask Cors
+Flask-Cors
