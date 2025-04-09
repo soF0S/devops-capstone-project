@@ -2,12 +2,12 @@
 # This pipeline needs the following tasks from Tekton Hub
 #   - git-clone
 #   - flake8
-#
+# Link task = Added
 ---
 apiVersion: tekton.dev/v1beta1
 kind: Pipeline
 metadata:  
-  name: cd-pipeline
+  name: main
 spec:
   workspaces:
     - name: pipeline-workspace
